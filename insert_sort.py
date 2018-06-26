@@ -8,6 +8,7 @@ def insert_sort(alist):
                 i -= 1
             else:
                 break
+                # break
 
 
 
